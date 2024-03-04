@@ -1,1 +1,1 @@
-Add a git of project
+Add a GIF of project
